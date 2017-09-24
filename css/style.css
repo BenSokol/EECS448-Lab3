@@ -1,0 +1,34 @@
+/*
+* @Filename: style.css
+* @Author:   Ben Sokol <Ben>
+* @Email:    bensokol@ku.edu
+* @Created:  September 23rd, 2017 [8:57pm]
+* @Modified: September 24th, 2017 [12:03am]
+*
+* Copyright (C) 2017 by Ben Sokol. All Rights Reserved.
+*/
+
+
+.img-slideshow {
+  width: 320px;
+  height: 200px;
+}
+
+.center {
+  text-align: center;
+}
+
+.needed-attributes {
+  background-color: blue;
+  color: white;
+  font-family: arial;
+  font-size: 22pt;
+  background-image: url(img_flwr.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.needed-attributes:hover {
+
+}

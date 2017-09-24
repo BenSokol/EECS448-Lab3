@@ -1,4 +1,15 @@
 /*
+* @Filename: Exercise1.js
+* @Author:   Ben Sokol <Ben>
+* @Email:    bensokol@ku.edu
+* @Created:  September 23rd, 2017 [9:36pm]
+* @Modified: September 24th, 2017 [12:03am]
+*
+* Copyright (C) 2017 by Ben Sokol. All Rights Reserved.
+*/
+
+
+/*
  * Checks the length of the input field, Displays alert if not 8 characters
  * Checks if fields match, if they dont, return error
  */
