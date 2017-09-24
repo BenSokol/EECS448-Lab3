@@ -56,3 +56,7 @@ img.infobox {
 .biography a:hover {
   color: blue
 }
+
+.js-color {
+  padding: 10px;
+}
